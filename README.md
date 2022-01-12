@@ -1,6 +1,6 @@
 # Machine-learning-projects
 
-Here we are provided with the insurance cost data and we need to build model which predicts cost of insurance using ml methods.
+ I have a health insurance dataset(CSV file) with customer information on insurance charges, age, sex, BMI, etc. We have to predict insurance charges based on these parameters in the dataset. This is a regression problem as our target variable — Charges/insurance cost — is numeric.
 ## Data Description
 age: age of primary beneficiary
 

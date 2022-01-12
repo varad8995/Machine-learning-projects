@@ -28,4 +28,5 @@ charges: Individual medical costs billed by health insurance
 
 
 
-![PairPlot](https://user-images.githubusercontent.com/62981548/149129614-9ee4e868-9282-407c-a342-03b2575206fe.png)
+![1_4H8Qgge8QrEKEodc9HRS9A](https://user-images.githubusercontent.com/62981548/149129891-a370f7b9-a26c-4626-9540-2d74d45824ea.png)
+
